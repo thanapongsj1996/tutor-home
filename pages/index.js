@@ -1,6 +1,3 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import Navbar from '../src/components/shared/Navbar'
 import styles from '../styles/Home.module.css'
 import MainLayout from '../src/components/layouts/MainLayout'
 
@@ -13,3 +10,5 @@ export default function Home() {
     </MainLayout>
   )
 }
+
+// azW2i4g1tzQt6NYg
